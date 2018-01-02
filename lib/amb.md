@@ -16,6 +16,7 @@ Swiss Cheese ([src](https://ambrosus.com/assets/Ambrosus-Cheese-v3.pdf)) industr
 The Core Team curently includes 23 people ([src](https://ambrosus.com/#team)). Notable team members include:
 
 Vlad Trifa - cofounder of EVRYTHING, a company that built large scale IoT platforms and co-author of Building the Web of things. ([src](https://en.wikipedia.org/wiki/Vlad_Trifa)) 
+
 Stefan Meyer - A Food Science PhD with 20 years experience in industry. ([src](https://www.linkedin.com/in/drstefanmeyer/))
 
 ## Technology
