@@ -1,6 +1,6 @@
 ## Overview
 
-ETHLend's goal is to create a global free market for borrowing and lending. Lenders select their Borrowers and the two parties agree upon an interest rate via the ETHLend platform. ETHLend collects fees in ETH from these transactions. It periodically uses 20% the ETH collected to purchase its own LEND token which it then distributes to all of the borrowers and lenders on the platform. The borrows only receive their distribution if they are on time with their payments. The LEND token exists solely for the purpose of these redistributions, also known as [Airdrops](https://www.google.com/search?q=what+is+a+token+airdrop). ([src](https://ethlend.io/en/faq/))
+ETHLend's goal is to create a global free market for borrowing and lending. Lenders select their Borrowers and the two parties agree upon an interest rate via the ETHLend platform. ETHLend collects fees in ETH from these transactions. It periodically uses 20% of the ETH collected from fees to purchase its own LEND token which it then distributes to all of the borrowers and lenders on the platform. The borrowers only receive their distribution if they are on time with their payments. The LEND token exists solely for the purpose of these redistributions, also known as [Airdrops](https://www.google.com/search?q=what+is+a+token+airdrop). ([src](https://ethlend.io/en/faq/))
 
 ## Roadmap
 
