@@ -22,9 +22,9 @@ https://wacoin.io/
 
 RFID, consumer, supply chain
 
-## Coin Market Cap key
+## Coin Market Cap Link
 
-wabi
+https://coinmarketcap.com/currencies/wabi/
 
 ## Ticker
 
