@@ -31,9 +31,9 @@ RFID, consumer, supply chain
 
 https://ambrosus.com/
 
-## Coin Market Cap Key
+## Coin Market Cap Link
 
-amber
+https://coinmarketcap.com/currencies/amber/
 
 ## Ticker
 

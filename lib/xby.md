@@ -21,3 +21,7 @@ https://xtrabytes.global/
 ## Tags
 
 platform
+
+## Coin Market Cap Link
+
+https://coinmarketcap.com/currencies/xtrabytes/

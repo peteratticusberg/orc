@@ -18,9 +18,9 @@ The team currently contains 6 individuals([src](https://vechainfoundation.com/en
 
 https://www.vechain.com/#/contact
 
-## Coin Market Cap Key
+## Coin Market Cap Link
 
-vechain
+https://coinmarketcap.com/currencies/vechain/
 
 ## Tags
 
