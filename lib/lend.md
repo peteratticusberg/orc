@@ -26,6 +26,6 @@ Lending, ERC20
 
 LEND
 
-## Coin Market Cap Key
+## Coin Market Cap Link
 
-ethlend
+https://coinmarketcap.com/currencies/ethlend/
