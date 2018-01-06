@@ -1,0 +1,10 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: ruby:2.4-alpine
+    steps:
+      - checkout
+      - run:
+          name: Lint
+          command: bin/lint.sh
