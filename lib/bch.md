@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/bitcoin-cash
 
 BCH
 
-## Coin Market Cap Key
-
-bitcoin-cash
-

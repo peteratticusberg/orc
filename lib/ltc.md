@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/litecoin
 
 LTC
 
-## Coin Market Cap Key
-
-litecoin
-

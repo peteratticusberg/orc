@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/qtum
 
 QTUM
 
-## Coin Market Cap Key
-
-qtum
-

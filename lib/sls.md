@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/salus
 
 SLS
 
-## Coin Market Cap Key
-
-salus
-

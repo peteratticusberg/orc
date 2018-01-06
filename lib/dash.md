@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/dash
 
 DASH
 
-## Coin Market Cap Key
-
-dash
-

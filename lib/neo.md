@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/neo
 
 NEO
 
-## Coin Market Cap Key
-
-neo
-

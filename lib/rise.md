@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/rise
 
 RISE
 
-## Coin Market Cap Key
-
-rise
-

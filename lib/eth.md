@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/ethereum
 
 ETH
 
-## Coin Market Cap Key
-
-ethereum
-

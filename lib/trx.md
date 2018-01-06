@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/tron
 
 TRX
 
-## Coin Market Cap Key
-
-tron
-

@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/ripple
 
 XRP
 
-## Coin Market Cap Key
-
-ripple
-

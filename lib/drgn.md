@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/dragonchain
 
 DRGN
 
-## Coin Market Cap Key
-
-dragonchain
-

@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/nem
 
 XEM
 
-## Coin Market Cap Key
-
-nem
-

@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/augur
 
 REP
 
-## Coin Market Cap Key
-
-augur
-

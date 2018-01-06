@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/sibcoin
 
 SIB
 
-## Coin Market Cap Key
-
-sibcoin
-

@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/experience-points
 
 XP
 
-## Coin Market Cap Key
-
-experience-points
-

@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/blockv
 
 VEE
 
-## Coin Market Cap Key
-
-blockv
-

@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/bitcoin
 
 BTC
 
-## Coin Market Cap Key
-
-bitcoin
-

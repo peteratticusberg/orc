@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/stellar
 
 XLM
 
-## Coin Market Cap Key
-
-stellar
-
