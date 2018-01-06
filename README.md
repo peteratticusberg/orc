@@ -20,4 +20,4 @@ The following are valid markdown headers:
 
 `## Tags` - a comma delimited list of tags that apply to the coin
 
-Note: A lot of the coins just have soundbites at the moment and no Overview. For an example of a coin with an overview see AMB, VEN, LEND, XBY, or WABI.
+Note: A lot of coins currently just have soundbites at the moment and no overview. For an example of a coin with an overview see AMB, VEN, LEND, XBY, or WABI.
