@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/icon
 
 ICX
 
-## Coin Market Cap Key
-
-icon
-

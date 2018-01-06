@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/zencash
 
 ZEN
 
-## Coin Market Cap Key
-
-zencash
-

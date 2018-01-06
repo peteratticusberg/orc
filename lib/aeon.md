@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/aeon
 
 AEON
 
-## Coin Market Cap Key
-
-aeon
-

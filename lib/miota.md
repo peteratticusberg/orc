@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/iota
 
 MIOTA
 
-## Coin Market Cap Key
-
-iota
-

@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/ethereum-classic
 
 ETC
 
-## Coin Market Cap Key
-
-ethereum-classic
-

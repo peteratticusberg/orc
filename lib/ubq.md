@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/ubiq
 
 UBQ
 
-## Coin Market Cap Key
-
-ubiq
-

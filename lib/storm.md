@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/storm
 
 STORM
 
-## Coin Market Cap Key
-
-storm
-

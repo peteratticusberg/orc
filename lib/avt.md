@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/aventus
 
 AVT
 
-## Coin Market Cap Key
-
-aventus
-

@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/attention-token-of-media
 
 ATM
 
-## Coin Market Cap Key
-
-attention-token-of-media
-

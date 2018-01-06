@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/eos
 
 EOS
 
-## Coin Market Cap Key
-
-eos
-

@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/blocknet
 
 BLOCK
 
-## Coin Market Cap Key
-
-blocknet
-

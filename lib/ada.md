@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/cardano
 
 ADA
 
-## Coin Market Cap Key
-
-cardano
-

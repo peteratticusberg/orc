@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/monero
 
 XMR
 
-## Coin Market Cap Key
-
-monero
-

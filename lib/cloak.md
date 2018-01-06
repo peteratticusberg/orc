@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/cloakcoin
 
 CLOAK
 
-## Coin Market Cap Key
-
-cloakcoin
-

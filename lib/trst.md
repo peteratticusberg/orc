@@ -18,7 +18,3 @@ https://coinmarketcap.com/currencies/trust
 
 TRST
 
-## Coin Market Cap Key
-
-trust
-
