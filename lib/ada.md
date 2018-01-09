@@ -1,8 +1,9 @@
-## Soundbite
+aslkflasjdfklj
 
+## Soundbite
 An ethereum competitor backed by a network of academics and scientists that is still under development 
 
-## Release Date
+## Release Dates
 
 10/01/2017 [(src)](https://coinmarketcap.com/currencies/cardano)
 
