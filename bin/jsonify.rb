@@ -4,8 +4,8 @@ file = ARGV[0]
 file = "#{Dir.pwd}/#{file}"
 
 def camelize(str)
-  str = str.strip.split(" ").
-  titleCaseStr = str.reduce { |res, token| res += token.downcase.sub(/^[a-z]/, &:upcase) }
+  tokens = str.strip.split(" ")
+  titleCaseStr = tokens.reduce { |res, token| res += token.downcase.sub(/^[a-z]/, &:upcase) }
   camelCaseStr = titleCaseStr.sub(/^[A-Z]/, &:downcase)
 end
 
