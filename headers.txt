@@ -1,10 +1,10 @@
-Soundbite
+Soundbite*
 Overview
 Roadmap
 Team
 Technology
 Website
-Ticker
-Coin Market Cap Link
+Ticker*
+Coin Market Cap Link*
 Tags
 Release Date
