@@ -23,7 +23,7 @@ File.readlines(file).each do |line|
     header_content += line 
   end
 end
-file_content[current_header] = header_content
+file_content[current_header] = header_content.strip
 
 puts file_content.to_json
 
