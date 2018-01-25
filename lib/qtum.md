@@ -14,6 +14,10 @@ https://qtum.org/
 
 https://coinmarketcap.com/currencies/qtum
 
+## White Paper
+
+https://qtum.org/en/white-papers
+
 ## Preferred Ticker
 
 QTUM

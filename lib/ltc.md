@@ -1,6 +1,6 @@
 ## Soundbite
 
-A cryptocurrency designed to be faster and cheaper than bitcoin
+A cryptocurrency designed to be faster and cheaper than bitcoin.
 
 ## Release Date
 
@@ -9,6 +9,10 @@ A cryptocurrency designed to be faster and cheaper than bitcoin
 ## Website
 
 https://litecoin.com/
+
+## Coin Name
+
+Litecoin
 
 ## Coin Market Cap Link
 
