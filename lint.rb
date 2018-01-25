@@ -41,7 +41,7 @@ end
 
 if errors.length > 0
   errors_str = errors.reduce { |str, err| "#{str}\n#{err}" }
-  raise "The following errors were detected:\n\n#{errors_str.red}"
+  raise "The following errors were detected:\n\n#{errors_str.red}\n"
 else 
   puts "Success".green
 end 
