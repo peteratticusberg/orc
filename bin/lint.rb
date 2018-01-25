@@ -1,12 +1,25 @@
 files = ARGV
 files = files.map { |file| "#{Dir.pwd}/#{file}" }
-valid_headers = File.readlines("#{Dir.pwd}/valid_headers.txt").map { |header| header.strip }
-errors = []
+# The headers.txt file determines what headers are valid and which are required. Required headers end with the character '*'. 
+headers = File.readlines("#{Dir.pwd}/headers.txt").map { |header| header.strip }
+valid_headers = headers.map { |header| header.sub(/\*$/, "")}
+required_headers = headers.map { |header| header.match(/\*$/) ? header.sub(/\*$/, "") : nil }.compact
 
+errors = []
 files.each do |file|
+  
+  file_content = File.read(file)
+  
+  location = "#{file}:1"
+  required_headers.each do |header|
+    unless file_content.match(/## #{Regexp.quote(header)}\s*$/)
+      errors << "#{location} Missing required header #{header}"
+    end
+  end
+
   most_recent_header_location = nil
   previous_line = nil
-  File.readlines(file).each_with_index do |line, index|
+  file_content.split("\n").each_with_index do |line, index|
     location = "#{file}:#{index}"
     if line =~ /^##[^#]/
       most_recent_header_location = index
