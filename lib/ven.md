@@ -30,6 +30,10 @@ https://coinmarketcap.com/currencies/vechain/
 
 RFID, consumer, supply chain
 
-## Preferred Ticker
+## Known Tickers
 
 VEN, VET
+
+## Preferred Ticker
+
+VEN

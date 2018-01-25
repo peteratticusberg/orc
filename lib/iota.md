@@ -14,7 +14,11 @@ https://iota.org/
 
 https://coinmarketcap.com/currencies/iota
 
+## Known Tickers
+
+MIOTA, IOTA
+
 ## Preferred Ticker
 
-MIOTA
+IOTA
 
