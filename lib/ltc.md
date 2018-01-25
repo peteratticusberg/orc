@@ -1,6 +1,6 @@
 ## Soundbite
 
-A crypto currency designed to be faster and cheaper than bitcoin
+A cryptocurrency designed to be faster and cheaper than bitcoin
 
 ## Release Date
 

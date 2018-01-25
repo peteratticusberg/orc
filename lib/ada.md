@@ -1,6 +1,6 @@
 ## Soundbite
 
-An ethereum competitor backed by a network of academics and scientists that is still under development 
+Ada is used to power the Cardano network. Cardano is an open source ethereum competitor backed by a network of academics and scientists.
 
 ## Release Date
 
@@ -14,7 +14,10 @@ https://www.cardanohub.org/
 
 https://coinmarketcap.com/currencies/cardano
 
+## Coin Name
+
+Ada [(src)](https://cardanofoundation.org/protocol/)
+
 ## Preferred Ticker
 
 ADA
-
