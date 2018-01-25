@@ -14,7 +14,7 @@ https://aventus.io/
 
 https://coinmarketcap.com/currencies/aventus
 
-## Ticker
+## Preferred Ticker
 
 AVT
 

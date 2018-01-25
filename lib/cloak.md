@@ -14,7 +14,7 @@ https://www.cloakcoin.com/
 
 https://coinmarketcap.com/currencies/cloakcoin
 
-## Ticker
+## Preferred Ticker
 
 CLOAK
 

@@ -14,7 +14,7 @@ https://www.wetrust.io/
 
 https://coinmarketcap.com/currencies/trust
 
-## Ticker
+## Preferred Ticker
 
 TRST
 

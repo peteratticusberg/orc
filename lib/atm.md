@@ -14,7 +14,7 @@ https://atmchain.io/teamen.html
 
 https://coinmarketcap.com/currencies/attention-token-of-media
 
-## Ticker
+## Preferred Ticker
 
 ATM
 

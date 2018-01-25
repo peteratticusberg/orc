@@ -14,7 +14,7 @@ https://neo.org/
 
 https://coinmarketcap.com/currencies/neo
 
-## Ticker
+## Preferred Ticker
 
 NEO
 

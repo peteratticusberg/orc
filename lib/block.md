@@ -14,7 +14,7 @@ http://blocknet.co/
 
 https://coinmarketcap.com/currencies/blocknet
 
-## Ticker
+## Preferred Ticker
 
 BLOCK
 

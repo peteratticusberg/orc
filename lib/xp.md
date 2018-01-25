@@ -14,7 +14,7 @@ http://www.xpcoin.io/
 
 https://coinmarketcap.com/currencies/experience-points
 
-## Ticker
+## Preferred Ticker
 
 XP
 

@@ -14,7 +14,7 @@ https://qtum.org/
 
 https://coinmarketcap.com/currencies/qtum
 
-## Ticker
+## Preferred Ticker
 
 QTUM
 

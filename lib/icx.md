@@ -14,7 +14,7 @@ https://www.icon.foundation/
 
 https://coinmarketcap.com/currencies/icon
 
-## Ticker
+## Preferred Ticker
 
 ICX
 

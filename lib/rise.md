@@ -14,7 +14,7 @@ https://rise.vision/
 
 https://coinmarketcap.com/currencies/rise
 
-## Ticker
+## Preferred Ticker
 
 RISE
 

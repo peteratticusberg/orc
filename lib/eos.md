@@ -14,7 +14,7 @@ https://eos.io/
 
 https://coinmarketcap.com/currencies/eos
 
-## Ticker
+## Preferred Ticker
 
 EOS
 

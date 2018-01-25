@@ -14,7 +14,7 @@ https://litecoin.com/
 
 https://coinmarketcap.com/currencies/litecoin
 
-## Ticker
+## Preferred Ticker
 
 LTC
 

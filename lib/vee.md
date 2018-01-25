@@ -14,7 +14,7 @@ https://blockv.io/
 
 https://coinmarketcap.com/currencies/blockv
 
-## Ticker
+## Preferred Ticker
 
 VEE
 

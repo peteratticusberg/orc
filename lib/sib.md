@@ -14,7 +14,7 @@ https://sibcoin.money/
 
 https://coinmarketcap.com/currencies/sibcoin
 
-## Ticker
+## Preferred Ticker
 
 SIB
 

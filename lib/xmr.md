@@ -14,7 +14,7 @@ http://www.monero.cc/
 
 https://coinmarketcap.com/currencies/monero
 
-## Ticker
+## Preferred Ticker
 
 XMR
 

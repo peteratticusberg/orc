@@ -39,7 +39,7 @@ https://ambrosus.com/
 
 https://coinmarketcap.com/currencies/amber/
 
-## Ticker
+## Preferred Ticker
 
 AMB
 

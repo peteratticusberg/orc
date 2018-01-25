@@ -14,7 +14,7 @@ https://qtum.org/
 
 https://coinmarketcap.com/currencies/ethereum-classic
 
-## Ticker
+## Preferred Ticker
 
 ETC
 

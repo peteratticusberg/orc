@@ -14,7 +14,7 @@ http://www.aeon.cash/
 
 https://coinmarketcap.com/currencies/aeon
 
-## Ticker
+## Preferred Ticker
 
 AEON
 

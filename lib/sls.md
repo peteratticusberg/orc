@@ -14,7 +14,7 @@ http://saluscoin.info/
 
 https://coinmarketcap.com/currencies/salus
 
-## Ticker
+## Preferred Ticker
 
 SLS
 

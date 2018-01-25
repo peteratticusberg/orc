@@ -14,7 +14,7 @@ https://www.dash.org/
 
 https://coinmarketcap.com/currencies/dash
 
-## Ticker
+## Preferred Ticker
 
 DASH
 

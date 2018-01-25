@@ -14,7 +14,7 @@ https://tronlab.com/
 
 https://coinmarketcap.com/currencies/tron
 
-## Ticker
+## Preferred Ticker
 
 TRX
 

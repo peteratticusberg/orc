@@ -14,7 +14,7 @@ https://www.ethereum.org/
 
 https://coinmarketcap.com/currencies/ethereum
 
-## Ticker
+## Preferred Ticker
 
 ETH
 

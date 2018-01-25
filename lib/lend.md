@@ -26,7 +26,7 @@ https://ethlend.io
 
 Lending, ERC20
 
-## Ticker
+## Preferred Ticker
 
 LEND
 

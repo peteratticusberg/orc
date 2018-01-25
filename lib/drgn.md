@@ -14,7 +14,7 @@ https://dragonchain.com/
 
 https://coinmarketcap.com/currencies/dragonchain
 
-## Ticker
+## Preferred Ticker
 
 DRGN
 

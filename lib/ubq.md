@@ -14,7 +14,7 @@ http://ubiqsmart.com/
 
 https://coinmarketcap.com/currencies/ubiq
 
-## Ticker
+## Preferred Ticker
 
 UBQ
 

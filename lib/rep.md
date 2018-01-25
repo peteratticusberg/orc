@@ -14,7 +14,7 @@ http://www.augur.net/
 
 https://coinmarketcap.com/currencies/augur
 
-## Ticker
+## Preferred Ticker
 
 REP
 

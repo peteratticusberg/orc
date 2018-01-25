@@ -14,7 +14,7 @@ https://www.bitcoincash.org/
 
 https://coinmarketcap.com/currencies/bitcoin-cash
 
-## Ticker
+## Preferred Ticker
 
 BCH
 

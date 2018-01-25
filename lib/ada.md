@@ -14,7 +14,7 @@ https://www.cardanohub.org/
 
 https://coinmarketcap.com/currencies/cardano
 
-## Ticker
+## Preferred Ticker
 
 ADA
 

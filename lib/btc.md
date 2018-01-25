@@ -14,7 +14,7 @@ https://bitcoin.org/en/
 
 https://coinmarketcap.com/currencies/bitcoin
 
-## Ticker
+## Preferred Ticker
 
 BTC
 
