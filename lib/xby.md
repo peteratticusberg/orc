@@ -1,3 +1,7 @@
+## Soundbite
+
+A coin used to power the xtrabytes dapp platform, much like ether is to ethereum. 
+
 ## Overview
 
 Much like ethereum, Xtrabytes is a platform for building decentralized applications. While xtrabytes has yet to produce a proof of concept, their goal is to become a dapp platform that is more secure, scalable, and featureful than those that exist today (e.g. Ethereum). The xtrabytes platform plans to support the storage of large files, instant messaging functionality, and a built in exchange. The XBY coin will be used by applications running on the xtrabytes network to compensate the xtrabytes nodes (i.e. miners) that secure and power the network. ([src](https://www.xtrabytes.global))
@@ -25,3 +29,7 @@ platform
 ## Coin Market Cap Link
 
 https://coinmarketcap.com/currencies/xtrabytes/
+
+## Ticker
+
+xby

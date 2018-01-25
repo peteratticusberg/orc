@@ -1,3 +1,7 @@
+## Soundbite
+
+A coin used to purchase anti-counterfeit certified Walimai goods. 
+
 ## Overview
 
 Walimai uses RFID tags to ensure the authenticity of consumer products. Walimai is based out of china where counterfeit products are much more common than they are in the United States, with companies producing everything from knock off baby food and beer to knock off electronics. The currency, WABI, is used to purchase products authenticated by walimai's technology, much in the way one might use a company-specific credit card to purchase products from a given company. ([src](https://wacoin.io/))   
