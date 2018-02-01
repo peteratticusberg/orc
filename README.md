@@ -14,7 +14,7 @@ The following are valid markdown headers:
 
 `## Website` - a link to the website for the coin
 
-`## Ticker`- the ticker sym for a coin (BTC, ETH, XRB, etc.)
+`## Preferred Ticker`- the ticker sym for a coin (BTC, ETH, XRB, etc.)
 
 `## Coin Market Cap Link` - a link to the coin's coin market cap page
 

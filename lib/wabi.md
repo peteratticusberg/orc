@@ -30,6 +30,6 @@ RFID, consumer, supply chain
 
 https://coinmarketcap.com/currencies/wabi/
 
-## Ticker
+## Preferred Ticker
 
 WABI

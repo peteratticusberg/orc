@@ -1,6 +1,6 @@
 ## Soundbite
 
-A crypto currency designed to be faster and cheaper than bitcoin
+A cryptocurrency designed to be faster and less expensive to transact in than bitcoin.
 
 ## Release Date
 
@@ -10,11 +10,15 @@ A crypto currency designed to be faster and cheaper than bitcoin
 
 https://litecoin.com/
 
+## Coin Name
+
+Litecoin
+
 ## Coin Market Cap Link
 
 https://coinmarketcap.com/currencies/litecoin
 
-## Ticker
+## Preferred Ticker
 
 LTC
 

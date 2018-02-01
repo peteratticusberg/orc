@@ -1,10 +1,14 @@
 Soundbite*
+Preferred Ticker*
+Coin Market Cap Link*
+Coin Name
+Known Tickers
 Overview
 Roadmap
 Team
 Technology
 Website
-Ticker*
-Coin Market Cap Link*
+White Paper
 Tags
 Release Date
+

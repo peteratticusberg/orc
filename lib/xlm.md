@@ -14,7 +14,7 @@ https://www.stellar.org/
 
 https://coinmarketcap.com/currencies/stellar
 
-## Ticker
+## Preferred Ticker
 
 XLM
 

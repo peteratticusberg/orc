@@ -14,7 +14,7 @@ http://nem.io/
 
 https://coinmarketcap.com/currencies/nem
 
-## Ticker
+## Preferred Ticker
 
 XEM
 

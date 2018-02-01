@@ -1,6 +1,6 @@
 ## Soundbite
 
-A lightweight monero competitor that can run on mobile devices
+An untraceable cryptocurrency that can be mined on retail hardware. [(src)](http://www.aeon.cash/)
 
 ## Release Date
 
@@ -14,7 +14,11 @@ http://www.aeon.cash/
 
 https://coinmarketcap.com/currencies/aeon
 
-## Ticker
+## Coin Name
+
+AEON [(src)](http://www.aeon.cash/)
+
+## Preferred Ticker
 
 AEON
 

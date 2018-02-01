@@ -1,6 +1,6 @@
 ## Soundbite
 
-A smart contract platform that can interoperate with smart contracts on other platforms (e.g Bitcion, Ethereum)
+QTUM powers the QTUM network. The QTUM network is platform for smart contracts and dapps that can interoperate with other blockchains. 
 
 ## Release Date
 
@@ -14,7 +14,15 @@ https://qtum.org/
 
 https://coinmarketcap.com/currencies/qtum
 
-## Ticker
+## White Paper
+
+https://qtum.org/en/white-papers
+
+## Coin Name
+
+QTUM
+
+## Preferred Ticker
 
 QTUM
 

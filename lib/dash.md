@@ -1,6 +1,6 @@
 ## Soundbite
 
-A crypto currency designed to be faster and cheaper than bitcoin
+A cryptocurrency designed to be faster and cheaper than bitcoin
 
 ## Release Date
 
@@ -14,7 +14,11 @@ https://www.dash.org/
 
 https://coinmarketcap.com/currencies/dash
 
-## Ticker
+## Coin Name
+
+Dash [(src)](https://dashpay.atlassian.net/wiki/spaces/DOC/pages/29360130/Introducing+Dash)
+
+## Preferred Ticker
 
 DASH
 

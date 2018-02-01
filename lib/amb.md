@@ -39,7 +39,11 @@ https://ambrosus.com/
 
 https://coinmarketcap.com/currencies/amber/
 
-## Ticker
+## Coin Name
+
+Amber [(src)](https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf)
+
+## Preferred Ticker
 
 AMB
 

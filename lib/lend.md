@@ -1,6 +1,6 @@
 ## Soundbite
 
-A coin used to facilitate the transfer of value between lenders and borrowers across the globe.
+The LEND token is used to facilitate the transfer of value between lenders and borrowers across the globe.
 
 ## Overview
 
@@ -22,11 +22,19 @@ Eth lend is built on top of ethereum and conforms to the ERC20 standard. ([src](
 
 https://ethlend.io
 
+## White Paper
+
+https://github.com/ETHLend/Documentation/blob/master/ETHLendWhitePaper.md
+
+## Coin Name
+
+Lend Token
+
 ## Tags
 
 Lending, ERC20
 
-## Ticker
+## Preferred Ticker
 
 LEND
 

@@ -1,6 +1,6 @@
 ## Soundbite
 
-A platform for building decentralized applications 
+Ether is used to power the Ethereum platform. Ethereum is a platform for building decentralized applications and smart contracts.
 
 ## Release Date
 
@@ -14,7 +14,15 @@ https://www.ethereum.org/
 
 https://coinmarketcap.com/currencies/ethereum
 
-## Ticker
+## White Paper
+
+https://github.com/ethereum/wiki/wiki/White-Paper
+
+## Coin Name
+
+Ether [(src)](https://github.com/ethereum/wiki/wiki/Getting-Ether)
+
+## Preferred Ticker
 
 ETH
 

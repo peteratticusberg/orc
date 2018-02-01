@@ -1,6 +1,6 @@
 ## Soundbite
 
-A platform for digital assets, digitial identity, and smart contracts
+The NEO token represents the right to participate in the governance and bookkeeping of the NEO network. The NEO network is a platform for digital assets and smart contracts.
 
 ## Release Date
 
@@ -14,7 +14,15 @@ https://neo.org/
 
 https://coinmarketcap.com/currencies/neo
 
-## Ticker
+## White Paper
+
+http://docs.neo.org/en-us/
+
+## Coin Name
+
+NEO [(src)](http://docs.neo.org/en-us/)
+
+## Preferred Ticker
 
 NEO
 

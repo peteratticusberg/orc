@@ -14,7 +14,7 @@ https://ripple.com/
 
 https://coinmarketcap.com/currencies/ripple
 
-## Ticker
+## Preferred Ticker
 
 XRP
 

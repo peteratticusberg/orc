@@ -1,6 +1,6 @@
 ## Soundbite
 
-Get paid for watching advertisements
+A token used to compensate consumers for watching advertisements.
 
 ## Release Date
 
@@ -14,7 +14,13 @@ https://atmchain.io/teamen.html
 
 https://coinmarketcap.com/currencies/attention-token-of-media
 
-## Ticker
+## Coin Name
+
+Attention Token of Media [(src)][1]
+
+[1]: https://static.atmchain.io/static/english/ATMChain_Whitepaper(Genesis_Edition).pdf
+
+## Preferred Ticker
 
 ATM
 

@@ -1,6 +1,6 @@
 ## Soundbite
 
-for ticket sales
+Aventus is a platfrom for ticket sales.
 
 ## Release Date
 
@@ -14,7 +14,11 @@ https://aventus.io/
 
 https://coinmarketcap.com/currencies/aventus
 
-## Ticker
+## Coin Name
+
+Aventus
+
+## Preferred Ticker
 
 AVT
 

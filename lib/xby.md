@@ -30,6 +30,6 @@ platform
 
 https://coinmarketcap.com/currencies/xtrabytes/
 
-## Ticker
+## Preferred Ticker
 
 xby

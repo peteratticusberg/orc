@@ -1,6 +1,6 @@
 ## Soundbite
 
-A fork of ethereum
+The token used to power the Ethereum Classic network. The Ethereum Classic network is a hard fork of the Ethereum network. [(src)](https://ethereumclassic.github.io/)
 
 ## Release Date
 
@@ -8,13 +8,17 @@ A fork of ethereum
 
 ## Website
 
-https://qtum.org/
+https://ethereumclassic.github.io/
 
 ## Coin Market Cap Link
 
 https://coinmarketcap.com/currencies/ethereum-classic
 
-## Ticker
+## Coin Name
+
+Classic Ether [(src)](https://en.wikipedia.org/wiki/Ethereum_Classic)
+
+## Preferred Ticker
 
 ETC
 

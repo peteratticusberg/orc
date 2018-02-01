@@ -14,7 +14,7 @@ https://zensystem.io/
 
 https://coinmarketcap.com/currencies/zencash
 
-## Ticker
+## Preferred Ticker
 
 ZEN
 

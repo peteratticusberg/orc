@@ -1,6 +1,6 @@
 ## Soundbite
 
-Digital cash
+Bitcoin is the original cryptocurrency.
 
 ## Release Date
 
@@ -14,7 +14,11 @@ https://bitcoin.org/en/
 
 https://coinmarketcap.com/currencies/bitcoin
 
-## Ticker
+## Coin Name
+
+Bitcoin
+
+## Preferred Ticker
 
 BTC
 

@@ -14,7 +14,11 @@ https://stormtoken.com/
 
 https://coinmarketcap.com/currencies/storm
 
-## Ticker
+## Coin Name
+
+STORM Token
+
+## Preferred Ticker
 
 STORM
 
