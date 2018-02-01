@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ruby bin/lint.rb lib/*
+ruby bin/lint.rb lib/*.md
