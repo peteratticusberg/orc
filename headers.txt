@@ -1,7 +1,7 @@
 Soundbite*
 Preferred Ticker*
 Coin Market Cap Link*
-Coin Name*
+Coin Name
 Known Tickers
 Overview
 Roadmap

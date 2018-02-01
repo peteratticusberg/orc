@@ -18,7 +18,7 @@ https://coinmarketcap.com/currencies/neo
 
 http://docs.neo.org/en-us/
 
-## Coin Name 
+## Coin Name
 
 NEO [(src)](http://docs.neo.org/en-us/)
 
