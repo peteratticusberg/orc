@@ -11,6 +11,7 @@ Known Limitations
 Roadmap
 Technical Contributors
 Usership
+Distinguishing Technical Features
 White Paper
 Release Date
 Known Websites
