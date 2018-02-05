@@ -24,6 +24,10 @@ Nano (originally Raiblocks) was developed by Colin LeMahieu [(src)](https://gith
 
 The nano protocol is founded on design decisions that prioritize transaction speed and throughput above all else. Such decisions include using UDP instead of TCP/IP for transaction broadcasts, limiting transaction size to prevent udp packet fragmentation, and defining transaction settlement in a way that doesn't require the full network to be in sync. As consequence of these decisions, Nano is vulnerable to certain kinds of denial-of-service and double-spend attacks that other, more bitcoin-like cryptocurrencies are not. The Nano white paper enumerates several different attack vectors and discusses current and future mitigation and prevention techniques [(src)](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf).
 
+## Release Date
+
+2014
+
 ## Website
 
 https://raiblocks.net
