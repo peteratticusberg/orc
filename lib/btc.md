@@ -10,9 +10,9 @@ Bitcoin is a cryptocurrency that supports basic smart contracts.
 
 Bitcoin was the first modern cryptocurrency and has served conceptually as a starting point for subsequent coins. Because of this, virtually all features of bitcoin can be found in other cryptocurrencies. 
 
-Bitcoin distinguished itself relative to older, less successful versions of digital currency by becoming the first fully decentralized digital currency [(src)](https://en.wikipedia.org/wiki/Cryptocurrency). Rather than relying a trusted central server, Bitcoin relies on a peer-to-peer network of computers running the Bitcoin protocol to validate and settle transactions [(src)](https://bitcoin.org/bitcoin.pdf).
+Bitcoin distinguished itself relative to older, less successful versions of digital currency through its decentralized structure [(src)](https://en.wikipedia.org/wiki/Cryptocurrency). Rather than relying a trusted central server, Bitcoin relies on a peer-to-peer network of computers running the Bitcoin protocol to validate and settle transactions [(src)](https://bitcoin.org/bitcoin.pdf).
 
-Though not a feature of the protocol itself, as of Februrary 2018 the network of computers powering bitcoin is larger and more computationally powerful than the network backing any other coin[(src)](https://bitinfocharts.com/comparison/hashrate-btc-eth-xrp-bch-ltc.html).
+Though not a feature of the bitcoin protocol itself, as of Februrary 2018 the network of computers powering bitcoin is significantly larger and more computationally powerful than the network backing any other coin[(src)](https://bitinfocharts.com/comparison/hashrate-btc-eth-xrp-bch-ltc.html).
 
 ## Known Limitations
 
