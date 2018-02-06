@@ -12,7 +12,7 @@ The Bitcoin protocol allows the paying party to place programmatically enforced 
 
 Currently, the Bitcoin protocol stipulates conditions that restrict the number of settled transactions per 10 minute time period to roughly 2000 (or ~3 transactions per second) [(src)](https://tradeblock.com/bitcoin/historical/1w-f-tsize_per_avg-01101-txs_blk_avg-01071) [(src)](https://bitcoin.stackexchange.com/questions/10457/what-is-the-number-of-transactions-in-a-block). Network fees per transaction also climbed as high $55 in December 2017 [(src)](https://bitinfocharts.com/comparison/bitcoin-transactionfees.html#3m). 
 
-Members of the Bitcoin community are currently working on implementing an overlay network that would allow for increased transaction volume and lower fees. One of most popular such networks, the Lightning Network, has estimated its theoretical limit to be "millions to billions of transactions per second" [(src)](http://lightning.network/). By comparison, Visa is capable of handling ~24k transactions per second [(src)](https://usa.visa.com/run-your-business/small-business-tools/retail.html).
+Members of the Bitcoin community are currently working on implementing an overlay network that would allow for increased transaction volume and lower fees. One of the most popular such networks, the Lightning Network, has estimated its theoretical limit to be "millions to billions of transactions per second" [(src)](http://lightning.network/). By comparison, Visa is capable of handling ~24k transactions per second [(src)](https://usa.visa.com/run-your-business/small-business-tools/retail.html).
 
 ## Team
 
