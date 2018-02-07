@@ -18,7 +18,7 @@ Nano transactions are also feeless. Nano anticipates that the more Nano an indiv
 
 Rather than using a single blockchain to store transactions, Nano uses one blockchain per nano account. Nano calls this novel data structure a block lattice. The blockchains comprising the block lattice can be updated independently of one another, which contributes in large part to the speed of the Nano network. 
 
-Nano uses Delegated Proof-of-Stake to achieve consensus [(src)](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf).
+Nano uses delegated proof-of-stake to achieve consensus [(src)](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf).
 
 ## Known Limitations
 
