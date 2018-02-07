@@ -8,24 +8,9 @@ jobs:
       - run:
           name: Lint
           command: bin/lint.sh
-  upload:
-    docker:
-      - image: coinsrepo/upload-command
-    steps:
-      - checkout
-      - run:
-          name: Upload
-          command: .circleci/commands/upload.sh
 
 workflows:
   version: 2
   lint:
     jobs:
       - lint
-  upload:
-    jobs:
-      - upload:
-          filters:
-            branches:
-              only:
-                - master
