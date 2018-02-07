@@ -1,3 +1,9 @@
+## Hyperlink Values
+
+proof-of-work, proof of work, PoW
+
+## Content
+
 Proof-of-work (abreviated as PoW) is a system in which computers expend computational effort in exchange for permissions within a network. 
 
 Proof-of-work is used by many cryptocurrencies to gate active participation in the P2P network by which they are powered. This makes it impossible for malicious actors to interfere with a given cryptocurrency without expending large amounts of computing resources. 
