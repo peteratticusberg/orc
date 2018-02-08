@@ -1,3 +1,9 @@
+## Hyperlink Values
+
+node
+
+## Content
+
 In the context of cryptocurrency, the term node is often used to refer to a participant in a peer-to-peer to network. A participant is a running instance of a software program capable of communicating with other participants over the network. 
 
 Phones, desktops, and networked clusters of machines are all capable of operating as a single node within a P2P network. It also possible for a single machine to behave as multiple nodes by running multiple instances of the P2P client software.

@@ -1,3 +1,9 @@
+## Hyperlink Values
+
+smart contract, self-executing contract
+
+## Content
+
 A smart contract is an automatically enforced, programmatically executed contract. In the context of cryptocurrency, a smart contract is executed by a peer-to-peer network of computers powering a given coin.
 
 They could be used to enforce the arrangements outlined in the following scenarios:
