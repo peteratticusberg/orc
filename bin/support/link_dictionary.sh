@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This should probably be written in ruby, it's a tad complex for a bash script. 
+# Things got out of hand here, this definitely needs to be rewritten in ruby
 
 function update_dictionary() {
   dictionary="$1"
