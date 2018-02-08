@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 files = ARGV
 files = files.map { |file| "#{Dir.pwd}/#{file}" }
 # The headers.txt file determines what headers are valid and which are required. Required headers end with the character '*'. 
