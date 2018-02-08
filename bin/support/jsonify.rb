@@ -1,5 +1,6 @@
-# this consumes one markdown file as an argument and prints the corresponding json to stdout
+#!/usr/bin/env ruby
 require('json')
+
 file = ARGV[0]
 
 def camelize(str)
