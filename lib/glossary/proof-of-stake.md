@@ -1,3 +1,7 @@
+## Term
+
+Proof-of-Stake
+
 ## Hyperlink Values
 
 proof-of-stake, proof of stake, PoS

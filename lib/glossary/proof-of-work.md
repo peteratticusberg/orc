@@ -1,3 +1,7 @@
+## Term
+
+Proof-of-Work
+
 ## Hyperlink Values
 
 proof-of-work, proof of work, PoW

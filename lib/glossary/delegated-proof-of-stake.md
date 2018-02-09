@@ -1,3 +1,7 @@
+## Term
+
+Delegeated Proof-of-Stake
+
 ## Hyperlink Values
 
 DPoS, Delegated PoS, delegated proof-of-stake, delegated proof of stake

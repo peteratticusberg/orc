@@ -1,3 +1,7 @@
+## Term
+
+Consensus Protocol
+
 ## Hyperlink Values
 
 consensus protocol
