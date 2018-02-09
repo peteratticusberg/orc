@@ -9,7 +9,7 @@ if [ -n "$3" ]; then
   aws_profile="$3"
 fi
 
-# bin/support/build.sh "$1"
+bin/support/build.sh "$1"
 
 is_aws_installed="$(which aws)"
 if [ -z "$is_aws_installed" ]; then
@@ -25,4 +25,4 @@ if [ -z "$bucket_name" ]; then
 fi
 
 build_dir="$(pwd)/build"
-aws s3 sync "$build_dir" "s3://$bucket_name" --delete --profile "$aws_profile"
+aws s3 sync "$build_dir" "s3://$bucket_name" --delete --exclude ".DS_Store" --profile "$aws_profile"
