@@ -12,16 +12,16 @@ def hyperlink(file, domain, link_dictionary)
   original_file_values = JSON.parse(File.read(file))
   transformed_file_values = {}
 
-  terms_to_ignore = [
-    original_file_values["coinName"],
-    original_file_values["preferredTicker"],
-    *((original_file_values["hyperlinkValues"] || "").split(","))
-  ]
+  # terms_to_ignore = [
+  #   original_file_values["coinName"],
+  #   original_file_values["preferredTicker"],
+  #   *((original_file_values["hyperlinkValues"] || "").split(","))
+  # ]
 
   original_file_values.each do |header, content|
     transformed_content = content
     link_dictionary.each do |term, link_address|
-      next if terms_to_ignore.include?(term)
+      next if file.match(/#{link_address}$/)
       # only hyperlink the first occurrence of a given within a section
       transformed_content = transformed_content.sub(
         /(^|\s|\()#{term}($|\.|\)|\s)/, # make the term is preceded+followed by a space, period, \n etc.
