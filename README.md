@@ -1,21 +1,9 @@
-Research on coins.
+### ORC: Open Research on Coins
 
-Each coin file can contain the following sections formatted as markdown h2 headers (e.g. `## Coin Name`). Headers marked with an `*` are required. 
+The goal of the ORC project is to provide unbiased and accessible information on coins to investors. Check out [our website](https://coinresearch.peteratticusberg.com) to browse existing research.
 
+ORC is designed to be useful for non-technical and technical readers alike. If you are a non-technical reader and at any point you find the content to assume too high a level of technical knowledge, feel free to let us know [here](https://github.com/peteratticusberg/orc/issues/new).
 
-```
-Coin Name*
-Soundbite*
-Distinguishing Features
-Known Limitations
-Roadmap
-Technical Contributors
-Usership
-Distinguishing Technical Features
-White Paper
-Release Date
-Known Websites
-Known Tickers
-Preferred Ticker*
-Coin Market Cap Link*
-```
+#### Contributing
+
+If you'd like to contibute to ORC, here's some [useful information](/CONTRIBUTING.md) to help you get started. 
