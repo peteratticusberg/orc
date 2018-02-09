@@ -1,3 +1,7 @@
+## Term
+
+Cryptocurrency
+
 ## Hyperlink Values
 
 cryptocurrency

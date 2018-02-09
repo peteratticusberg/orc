@@ -1,3 +1,7 @@
+## Term
+
+Smart Contract
+
 ## Hyperlink Values
 
 smart contract, self-executing contract

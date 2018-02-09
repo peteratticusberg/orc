@@ -1,3 +1,7 @@
+## Term
+
+Dapp
+
 ## Hyperlink Values
 
 dapp, decentralized application
