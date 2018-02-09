@@ -4,7 +4,7 @@ Asymmertic Cryptography
 
 ## Hyperlink Values
 
-asymmetric cyptography, public key cryptography
+asymmetric cryptography, public key cryptography
 
 ## Content
 
