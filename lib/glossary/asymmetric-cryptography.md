@@ -1,6 +1,6 @@
 ## Term
 
-Asymmertic Cryptography
+Asymmetric Cryptography
 
 ## Hyperlink Values
 
