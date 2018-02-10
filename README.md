@@ -1,8 +1,8 @@
 ### ORC: Open Research on Coins
 
-The goal of the ORC project is to provide unbiased and accessible information on coins to investors. Check out [our website](https://coinresearch.peteratticusberg.com) to browse existing research.
+The goal of ORC is to provide unbiased, accessible, and useful information on coins to investors. To browse existing research, see [orc.press](https://www.orc.press/coins).
 
-ORC is designed to be useful for non-technical and technical readers alike. If you are a non-technical reader and at any point you find the content to assume too high a level of technical knowledge, feel free to let us know [here](https://github.com/peteratticusberg/orc/issues/new).
+ORC is designed to be useful for technical and non-technical readers alike. If you are a non-technical reader and find that any content assumes too high a level of technical knowledge, feel free to [let us know](https://github.com/peteratticusberg/orc/issues/new). 
 
 #### Contributing
 
