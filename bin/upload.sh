@@ -9,7 +9,7 @@ if [ -n "$3" ]; then
   aws_profile="$3"
 fi
 
-bin/support/build.sh "$1"
+bin/support/build.sh "$domain"
 
 is_aws_installed="$(which aws)"
 if [ -z "$is_aws_installed" ]; then
