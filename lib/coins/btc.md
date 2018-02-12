@@ -18,7 +18,7 @@ Though not a feature of the bitcoin protocol itself, as of Februrary 2018 the ne
 
 The Bitcoin protocol currently stipulates conditions that limit the number of transactions that can occur within a 10 minute period to roughly 2,000. This works out to approximately 3 transactions per second. By comparison, Visa is capable of processing 24,000 transactions/second. This limtation led to transaction fees as high as $55 per transaction in December 2017 [(src)](https://bitinfocharts.com/comparison/bitcoin-transactionfees.html). 
 
-While it is possible to update the protocol in ways that could raise this limit, there are currently no widely supported proposals [(src)](https://github.com/bitcoin/bips) that would increase transaction volume by a full order of magnitude or more. There are, however, projects underway to create an overlay network on top bitcoin [(src)](http://lightning.network/) which would be capable of facilitating 10s to 100s of thousands of bitcoin transactions per second. At a high level, such an overlay network could work by combining smaller transactions into large ones.
+While it is possible to update the protocol in ways that could raise this limit, there are currently no widely supported proposals [(src)](https://github.com/bitcoin/bips) that would increase transaction volume by a full order of magnitude or more. There are, however, projects underway to create an overlay network on top bitcoin [(src)](http://lightning.network/) which would be capable of facilitating 10s to 100s of thousands of bitcoin transactions per second. At a high level, such an overlay network would work by combining smaller transactions into large ones.
 
 ## Technical Contributors
 
@@ -26,7 +26,7 @@ The Bitcoin protocol was originally developed by a person or persons working und
 
 ## Usership
 
-Bitcoin is accepted by thousands of businesses across the globe [(src)](https://bitcoin.org/en/spend-bitcoin). The most popular Bitcoin exchange alone, Coinbase, has 10M+ users [(src)](https://www.coinbase.com/about?locale=en-US). Cash settled Bitcoin futures are also available on the CME and the CBOE [(src)](https://www.reuters.com/article/uk-bitcoin-futures-contracts/bitcoin-futures-contracts-at-cme-and-cboe-idUSKBN1E92K9). 
+Bitcoin is accepted by thousands of businesses across the globe [(src)](https://bitcoin.org/en/spend-bitcoin). The most popular Bitcoin exchange alone, Coinbase, has 10M+ users [(src)](https://www.coinbase.com/about?locale=en-US). Cash settled Bitcoin futures are also available for trading on the CME and the CBOE [(src)](https://www.reuters.com/article/uk-bitcoin-futures-contracts/bitcoin-futures-contracts-at-cme-and-cboe-idUSKBN1E92K9). 
 
 ## Release Date
 

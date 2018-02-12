@@ -12,17 +12,25 @@ def hyperlink(file, domain, link_dictionary)
   original_file_values = JSON.parse(File.read(file))
   transformed_file_values = {}
 
-  original_file_values.each do |header, content|
-    transformed_content = content
-    link_dictionary.each do |term, link_address|
-      next if file.match(/#{link_address}\.json$/)
-      # only hyperlink the first occurrence of a given within a section
-      transformed_content = transformed_content.sub(
-        /(^|\s|\()#{term}($|\.|\)|\s)/, # make the term is preceded+followed by a space, period, \n etc.
-        "\\1[#{term}](#{domain}#{link_address})\\2"
-      )
+  original_file_values.each do |header, original_content|
+    content = original_content
+    if content =~ /^https?:\/\// 
+      urls = content.split(", ").map do |url|
+        url = url.strip
+        "[#{url}](#{url})"
+      end
+      content = urls.join(", ")
+    else 
+      link_dictionary.each do |term, link_address|
+        next if file.match(/#{link_address}\.json$/)
+        # only hyperlink the first occurrence of a given within a section
+        content = content.sub(
+          /(^|\s|\()#{term}($|\.|\)|\s|')/, # make the term is preceded+followed by a space, period, \n etc.
+          "\\1[#{term}](#{domain}#{link_address})\\2"
+        )
+      end
     end
-    transformed_file_values[header] = transformed_content
+    transformed_file_values[header] = content
   end
   return transformed_file_values
 end
