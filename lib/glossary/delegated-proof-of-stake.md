@@ -1,6 +1,6 @@
 ## Term
 
-Delegeated Proof-of-Stake
+Delegated Proof-of-Stake
 
 ## Hyperlink Values
 
