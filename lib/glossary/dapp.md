@@ -4,7 +4,7 @@ Dapp
 
 ## Hyperlink Values
 
-dapp, dapps, decentralized application, decentralized applications
+dapp, dapps, decentralized application
 
 ## Content
 
