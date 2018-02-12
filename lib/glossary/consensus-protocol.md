@@ -4,7 +4,7 @@ Consensus Protocol
 
 ## Hyperlink Values
 
-consensus protocol, consensus protocols
+consensus protocol
 
 ## Content
 
