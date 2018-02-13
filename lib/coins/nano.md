@@ -12,13 +12,13 @@ Nano transactions settle within seconds [(src)](https://raiblocks.net/media/RaiB
 
 Unlike most cryptocurrencies, Nano does not support smart contracts. This feature was intentionally excluded to increase the performance of the nano network.
 
-Nano transactions are also feeless. Nano anticipates that the more Nano an individual holds, the more likely they are to operate a node securing the network by way of protecting their investment. The protocol is designed so that even if nano were to operate at the scale of large payment processor like Visa, nodes could be run on retail hardware (e.g. a laptop). Nodes can currently be run on such hardware.  
+Nano transactions are also feeless. Nano anticipates that the more Nano an individual holds, the more likely they are to operate a node (for free) that processes transactions and secures the network by way of protecting their investment. The protocol is designed so that even if nano were to operate at the scale of large payment processor like Visa, nodes could be run on retail hardware (e.g. a laptop). Nano nodes can currently be run on such hardware.  
 
 ## Distinguishing Technical Features
 
-Rather than using a single blockchain to store transactions, Nano uses one blockchain per nano account. Nano calls this novel data structure a block lattice. The blockchains comprising the block lattice can be updated independently of one another, which contributes in large part to the speed of the Nano network. 
+Rather than using a single blockchain to store transactions, nano uses one blockchain per nano account. Nano calls this novel data structure a block lattice. The blockchains comprising the block lattice can be updated independently of one another, which contributes in large part to the speed of the Nano network. 
 
-Nano uses Delegated Proof-of-Stake to achieve consensus [(src)](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf).
+Nano uses delegated proof-of-stake to achieve consensus [(src)](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf).
 
 ## Known Limitations
 

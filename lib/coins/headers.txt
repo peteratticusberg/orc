@@ -1,6 +1,7 @@
 Coin Name*
 Soundbite*
 Distinguishing Features
+Distinguishing Technical Features
 Known Limitations
 Roadmap
 Technical Contributors

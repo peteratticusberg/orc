@@ -1,3 +1,2 @@
 #!/bin/bash
-
-ruby bin/lint.rb lib/*.md
+bin/support/lint.rb lib/glossary lib/coins
