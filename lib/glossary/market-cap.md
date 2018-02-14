@@ -1,0 +1,11 @@
+## Term
+
+Market Cap
+
+## Hyperlink Values
+
+Market Capitalization
+
+## Content
+
+The Market cap of a coin is equal to its current price multiplied by the number of coins in circulation. For example, if one Sample Coin is worth $4, and there are 3 million Sample Coins in circulation, the market cap of Sample Coin would be $4 * 3 million = $12 million. 
