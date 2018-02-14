@@ -8,10 +8,14 @@ dapp, dapps, decentralized application
 
 ## Content
 
-A dapp is an application that relies on an open P2P network to store and record its data. Dapp is a portmanteau of the words "decentralized" and "application". Dapps can be thought of in contrast to any type of application that stores its data on centralized servers, like facebook, gmail, or amazon. Some of the most well known dapps that existed prior to the advent of cryptocurrency are BitTorrent and Tor. 
+Dapp is a portmanteau of the words "decentralized" and "application". 
 
-In the context of cryptocurrency specifically, dapps are often built on top of existing P2P networks with dapp support like Ethereum. Such dapps use the computing and storage resources of the host network (e.g. ethereum) to create and store data. They pay the host network "gas" (a coin or token, e.g. ether) whenever they need to update their data.
+A dapp is an application that relies solely on a P2P network to store, record, or transmit data. Dapps can be thought of in contrast to any type of application that relies on a centralized servers to perform these functions, like facebook, gmail, or amazon. BitTorrent and Tor are relatively two well known dapps that existed prior to the advent of modern cryptocurrency.
 
-Etheremon is a recent example of a dapp. It runs on ethereum and allows users to buy, sell, train and battle digital monsters. It relies on the ethereum network to store data tracking who owns what, what battles have occurred, and the experience level of each monster. When end users take action that changes the data associated with the etheremon dapp, they pay a small fee (i.e. gas) in ether to the Ethereum network.
+All modern cryptocurrencies are, by their very nature, dapps. That being said, within the context of cryptocurrency the term "dapp" is typically used to refer to an application running on a dapp platform, such as Ethereum. 
 
+To complicate matters further, some cryptocurrencies exist wholly and excusively within the context of a dapp platform. For example, Augur, Gnosis and BAT (all of which are cryptocurrencies) are simply dapps running on a dapp platform (Ethereum). Even though it'd be atypical to use the term "dapp" to refer to a cryptocurrency such as Litecoin (because it doesn't run on a dapp platform), it would be more common to hear cryptocurencies such as Augur or BAT referred to as dapps.
 
+The term dapp is also used to refer to applications that a) run on a dapp platform and b) do not function as a full fledged cryptcurrency. Examples of such dapps include cryptokitties and etheremon. 
+
+Generally speaking, a dapp running on a dapp platform is written up as a smart contract. The smart contract lays out the rules for how the application works and how it can be interacted with.
