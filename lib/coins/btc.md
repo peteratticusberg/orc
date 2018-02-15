@@ -26,7 +26,7 @@ The Bitcoin protocol was originally developed by a person or persons working und
 
 ## Usership
 
-Bitcoin is accepted by thousands of businesses across the globe [(src)](https://bitcoin.org/en/spend-bitcoin). The most popular Bitcoin exchange alone, Coinbase, has 10M+ users [(src)](https://www.coinbase.com/about?locale=en-US). Cash settled Bitcoin futures are also available for trading on the CME and the CBOE [(src)](https://www.reuters.com/article/uk-bitcoin-futures-contracts/bitcoin-futures-contracts-at-cme-and-cboe-idUSKBN1E92K9). 
+Bitcoin is accepted by thousands of businesses across the globe [(src)](https://bitcoin.org/en/spend-bitcoin). One of the most popular Bitcoin exchanges alone, Coinbase, has 10M+ users [(src)](https://www.coinbase.com/about?locale=en-US). Cash settled Bitcoin futures are also available for trading on the CME and the CBOE [(src)](https://www.reuters.com/article/uk-bitcoin-futures-contracts/bitcoin-futures-contracts-at-cme-and-cboe-idUSKBN1E92K9). 
 
 ## Release Date
 
