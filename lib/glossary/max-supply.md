@@ -1,4 +1,4 @@
-## Term 
+## Term
   
 Max Supply
 

@@ -44,7 +44,7 @@ As for people using dapps built on Ethereum, there are no available estimates. I
 
 2014
 
-## Website
+## Known Websites
 
 https://www.ethereum.org/
 
