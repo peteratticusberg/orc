@@ -2,7 +2,7 @@
 
 Proof-of-Work
 
-## Hyperlink Values
+## Hyperlink On
 
 proof-of-work, proof of work, PoW
 
