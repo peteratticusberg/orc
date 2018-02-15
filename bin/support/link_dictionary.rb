@@ -8,7 +8,8 @@ link_dictionary = {}
 sections_containing_link_keys = [
   "coinName",
   "preferredTicker",
-  "hyperlinkValues",
+  "term",
+  "hyperlinkOn",
 ]
 
 def get_link_to_file(file) # yields a value like "/coins/btc". consumes args like "/Users/joe/orc/build/coins/btc.json"

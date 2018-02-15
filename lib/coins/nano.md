@@ -16,7 +16,7 @@ Nano transactions are also feeless. Nano anticipates that the more Nano an indiv
 
 ## Distinguishing Technical Features
 
-Rather than using a single blockchain to store transactions, nano uses one blockchain per nano account. Nano calls this novel data structure a block lattice. The blockchains comprising the block lattice can be updated independently of one another, which contributes in large part to the speed of the Nano network. 
+Rather than using a single blockchain to store transactions, nano uses one blockchain per nano account. Nano calls this novel data structure a block lattice. The blockchains comprising the block lattice are interconnected through transactions. Transactions can be added to the lattice asynchronously, which contributes in large part to the speed of the Nano network. 
 
 Nano uses delegated proof-of-stake to achieve consensus [(src)](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf).
 
@@ -26,13 +26,15 @@ Because of the novel way Nano is designed, the network is also vulnerable a nove
 
 At the moment, the nano network is particularly vulnerable to spam and DoS attacks, in part because transaction settlement is free.
 
+Additionally the level of network traffic Nano requires -- measured by number of network requests -- increases at a considerably greater rate than is the case for other currencies as its network scales (adds nodes). This is in part offset by the fact that the messages Nano nodes need to send each other are all signifcantly smaller than the messages that nodes in other networks need to pass among themselves.
+
 ## Technical Contributors
 
-Nano was developed by Colin LeMahieu [(src)](https://github.com/clemahieu/raiblocks/graphs/contributors). As of February 2017, the team consisted of 4 additional developers [(src)](https://raiblocks.net/page/faq).
+Nano was developed by Colin LeMahieu in 2014 [(src)](https://github.com/clemahieu/raiblocks/graphs/contributors). As of February 2017, the team consisted of 4 additional developers [(src)](https://raiblocks.net/page/faq).
 
 ## Usership
 
-As of February 2017, Nano is used primarily as a vehicle for speculation. This is true of most crypto currencies. It is listed on several exchanges, including binance and kucoin. 
+As of February 2017, Nano is used primarily as a vehicle for speculation. This is true of most crypto currencies. It is listed on several exchanges, including binance and kucoin. Additionally, nano can be used to purchase goods on [these websites](https://www.spendraiblocks.com).
 
 ## Release Date
 

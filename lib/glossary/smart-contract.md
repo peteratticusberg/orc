@@ -2,7 +2,7 @@
 
 Smart Contract
 
-## Hyperlink Values
+## Hyperlink On
 
 smart contract, self-executing contract
 
@@ -20,6 +20,6 @@ Alice, Bob and Claire run a consulting firm together. All funds paid to the firm
 
 A more sophisticated smart contract (i.e. a dapp) could be used to do the following:
 
-Diane would like to create a virtual world in which people are capable of buying plots of land. She creates a smart contract that describes how this works. The smart contract stipulates that anybody who pays the equivalent of 1 USD into the contract will be publicly assigned 1 random plot of land for the first 1000 plots. After that, they will be sent an error message saying no more plots are available. Additionally, the contract stipulates that a sale prices can be publicly listed alongside a plot of land. If a sale price is listed for a plot of land, anybody can send a message to the contract, along with funds equal to the sale price, and the contract will transfer the land to the buyer and the funds to owner of that plot.
+Diane would like to create a virtual world in which people are capable of buying plots of land. She creates a smart contract that describes how this works. The smart contract stipulates that anybody who pays the equivalent of 1 USD into the contract will be publicly assigned 1 random plot of land for the first 1000 plots. After that, they will be sent an error message saying no more plots are available. Additionally, the contract stipulates that a sale price can be publicly listed alongside a plot of land. If a sale price is listed for a plot of land anybody can purchase it by sending a "buy" message to the contract, along with the necessary funds, and the contract will transfer the plot to the buyer and the funds to owner of that plot.
 
-Examples of dapps written on the Ethereum platform can be found at stateofthedapps.com
+Examples of dapps written on the Ethereum platform can be found at [stateofthedapps.com](https://www.stateofthedapps.com/)
