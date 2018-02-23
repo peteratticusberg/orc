@@ -14,7 +14,6 @@ def hyperlink(file, domain, link_dictionary)
 
   headers_to_skip=[
     "coinName",
-    "term",
     "hyperlinkOn",
     "knownTickers",
     "preferredTicker",

@@ -4,7 +4,7 @@ Fiat
 
 ## Hyperlink On
 
-fiat currency, fiat money
+fiat currency, fiat money, fiat
 
 ## Content
 

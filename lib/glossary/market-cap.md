@@ -4,7 +4,7 @@ Market Cap
 
 ## Hyperlink On
 
-Market Capitalization
+market capitalization, market cap
 
 ## Content
 

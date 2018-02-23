@@ -4,7 +4,7 @@ Max Supply
 
 ## Hyperlink On
 
-Maximum Supply
+max supply, maximum supply
 
 ## Content
 
