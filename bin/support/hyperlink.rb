@@ -29,12 +29,20 @@ def hyperlink(file, domain, link_dictionary)
         content = urls.join(", ")
       else 
         link_dictionary.each do |term, link_address|
-          next if file.match(/#{link_address}\.json$/) # never hyperlink a file to itself
-          content = content.sub( # only hyperlink the first occurrence of a given within a section
-            /(^|\s|\()#{term}($|\.|\)|\s|')/i, # match the term if it's preceded+followed by a space, period, \n etc.
-            "\\1[#{term}](#{domain}#{link_address})\\2"
-          )
+          if file.match(/#{link_address}\.json$/) # if this term would hyper link to itself
+            # put a "!!" in front of it so that it doesn't get picked up by any other matches
+            content = content.gsub(
+              /(^|\s|\()#{term}($|\.|\)|\s|')/i, 
+              "\\1!!#{term}\\2"
+            )  
+          else
+            content = content.sub( # only hyperlink the first occurrence of a given within a section
+              /(^|\s|\()#{term}($|\.|\)|\s|')/i, # match the term if it's preceded+followed by a space, period, \n etc.
+              "\\1[#{term}](#{domain}#{link_address})\\2"
+            )
+          end
         end
+         content = content.gsub(/!!/, "") # remove all "!!" used to remove self linking terms from the link pool
       end
     end
     transformed_file_values[header] = content
