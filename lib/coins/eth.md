@@ -56,10 +56,6 @@ https://coinmarketcap.com/currencies/ethereum
 
 https://github.com/ethereum/wiki/wiki/White-Paper
 
-## Coin Name
-
-Ether [(src)](https://github.com/ethereum/wiki/wiki/Getting-Ether)
-
 ## Known Tickers
 
 ETH
