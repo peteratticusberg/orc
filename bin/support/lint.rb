@@ -12,7 +12,9 @@ directories.each do |dir|
   files.each do |file|
     
     file_content = File.read(file)
-    
+    # We started getting invalid byte sequence errors on our ci servers. This fixes that:
+    file_content = file_content.encode("utf-8", invalid: :replace, undef: :replace, replace: "")
+
     location = "#{file}:1"
     required_headers.each do |header|
       unless file_content.match(/## #{Regexp.quote(header)}\s*$/)
