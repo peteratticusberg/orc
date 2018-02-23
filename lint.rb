@@ -14,8 +14,6 @@ files.each do |file|
         errors << "#{location} Trailing space detected"
       end
       header = header.strip
-      puts valid_headers
-      puts header
       unless valid_headers.include?(header)
         errors << "#{location} Invalid header detected: #{header}"
       end
