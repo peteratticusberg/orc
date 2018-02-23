@@ -4,7 +4,7 @@ Delegated Proof-of-Stake
 
 ## Hyperlink On
 
-DPoS, Delegated PoS, delegated proof-of-stake, delegated proof of stake
+delegated proof-of-stake, DPoS, delegated PoS, delegated proof of stake
 
 ## Content
 

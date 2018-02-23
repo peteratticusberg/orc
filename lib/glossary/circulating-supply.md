@@ -4,7 +4,7 @@ Circulating Supply
 
 ## Hyperlink On
 
-circulation
+circulating supply, circulation 
 
 ## Content
 

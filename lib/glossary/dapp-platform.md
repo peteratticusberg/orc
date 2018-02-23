@@ -4,7 +4,7 @@ Dapp Platform
 
 ## Hyperlink On
 
-platform for dapps, platform for decentralized applications, decentralized application platform
+dapp platform, platform for dapps, platform for decentralized applications, decentralized application platform
 
 ## Content
 
