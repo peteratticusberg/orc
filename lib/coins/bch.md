@@ -26,12 +26,9 @@ Because one block is mined every 10 minutes, and blocks are essentially a collec
 
 Bitcoin Cash is only capable of processing ~27 transactions per second [(src)](https://bitcoin.stackexchange.com/questions/71346/whats-the-difference-between-btc-and-bch-transaction-capacity/71347#71347). By comparison, Visa typically processes ~2000 transactions/second and is capable of processing up to 24,000 transactions per second [(src)](https://usa.visa.com/run-your-business/small-business-tools/retail.html).
 
-The Bitcoin Cash community plans to address this issue by  increasing the blocksize limit beyond 8MB.
+The Bitcoin Cash community plans to address this issue by increasing the blocksize limit beyond 8MB.
 
-Additionally, due to current and potential future increases in block size limit, Bitcoin Cash faces long term memory and storage scalability challenges. Currently the Bitcoin Cash blockchain can grow by up to 416GB per year. By comparison the Bitcoin blockchain can grow by up to ~104GB per year. Were Bitcoin Cash to increase the block size limit to 80MB (and thus transaction capacity to 270/second), this would result in a potential 4.16TB increase in blockchain size per year.
-
-The cost of 1TB of ssd storage as of February 2018 was roughly $260 [(src)](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Delectronics&field-keywords=1+tb+ssd+hard+drive). To contextualize this, a small mining operation might comprise 10 Antminers S9s costing a total of ~23k USD. A large operation might have 1000 Antminers, costing ~2.4M USD. For ~4k USD, each operation could purchase ~16TB of storage. 
-
+Additionally, due to current and potential future increases in block size limit, Bitcoin Cash faces long term memory and storage scalability challenges. Currently the Bitcoin Cash blockchain can grow by up to 416GB per year. By comparison the Bitcoin blockchain can grow by up to ~104GB per year. 
 
 ## Technical Contributors
 
