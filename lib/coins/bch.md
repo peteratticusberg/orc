@@ -10,19 +10,25 @@ Bitcoin Cash is a version of Bitcoin with greater transaction capacity.
 
 Bitcoin Cash is a hard fork of Bitcoin. Generally speaking, there are two differences between Bitcoin and Bitcoin Cash. 
 
-The first is that Bitcoin Cash is capable of processing ~27 transactions/second whereas Bitcoin is only capable of processing ~3.33 transactions/second [(src)](https://bitcoin.stackexchange.com/questions/71346/whats-the-difference-between-btc-and-bch-transaction-capacity/71347#71347). By comparison, Visa can process ~24,000 transactions/second [(src)](https://usa.visa.com/run-your-business/small-business-tools/retail.html).
+The first is that Bitcoin Cash is capable of processing ~27 transactions/second whereas Bitcoin is only capable of processing ~3.33-6.66 transactions/second [(src)](https://bitcoin.stackexchange.com/a/71480/51219). Visa typically processes ~2000 transactions/second and is capable of processing up to 24,000 transactions per second [(src)](https://usa.visa.com/run-your-business/small-business-tools/retail.html).
 
 The second is that, roughly speaking, mining Bitcoin Cash will eventually require ~8x the disk space and memory it takes to mine Bitcoin.
 
 ## Distinguishing Technical Features
 
-Blocks in the Bitcoin Cash blockchain have an 8MB size limit [(src)](https://en.wikipedia.org/wiki/Bitcoin_Cash#Launch), where as blocks in the Bitcoin blockchain have a 1MB size limit [(src)](https://en.bitcoin.it/wiki/Block_size_limit_controversy). Because one block is mined every 10 minutes, and blocks are essentially a collection of transactions, this block size limit increase is what enables Bitcoin Cash to process more transactions than Bitcoin.
+Blocks in the Bitcoin Cash blockchain have an 8MB size limit [(src)](https://en.wikipedia.org/wiki/Bitcoin_Cash#Launch), whereas blocks in the Bitcoin blockchain have what could be thought of as a 2MB size limit. 
+
+> In reality, Bitcoin blocks have a _weight_ limit of 4,000,000 weight units since the introduction of segwit [(src)](https://github.com/bitcoin/bips/blob/master/bip-0141.mediawiki), which has an effect roughly equivalent to that of a 2MB size limit on a non-segwit-enabled chain such as BCH [(src)](https://blog.bitmex.com/the-segwit-transaction-capacity-increase-part-1/). 
+
+Because one block is mined every 10 minutes, and blocks are essentially a collection of transactions, this block size limit increase is what enables Bitcoin Cash to process more transactions than Bitcoin.
 
 ## Known Limitations
 
-Bitcoin Cash is only capable of processing ~27 transactions per second [(src)](https://bitcoin.stackexchange.com/questions/71346/whats-the-difference-between-btc-and-bch-transaction-capacity/71347#71347). By comparison, Visa is capable of processing 24,000 transactions per second [(src)](https://usa.visa.com/run-your-business/small-business-tools/retail.html).
+Bitcoin Cash is only capable of processing ~27 transactions per second [(src)](https://bitcoin.stackexchange.com/questions/71346/whats-the-difference-between-btc-and-bch-transaction-capacity/71347#71347). By comparison, Visa typically processes ~2000 transactions/second and is capable of processing up to 24,000 transactions per second [(src)](https://usa.visa.com/run-your-business/small-business-tools/retail.html).
 
-Additionally, due to the increase in block size limit, Bitcoin Cash faces long term memory and storage scalability challenges. The Bitcoin Cash blockchain can grow by up to 416GB per year. By comparison the Bitcoin blockchain can grow by up to 52GB per year.
+The Bitcoin Cash community plans to address this issue by increasing the blocksize limit beyond 8MB.
+
+Additionally, due to current and potential future increases in block size limit, Bitcoin Cash faces long term memory and storage scalability challenges. Currently the Bitcoin Cash blockchain can grow by up to 416GB per year. By comparison the Bitcoin blockchain can grow by up to ~104GB per year. 
 
 ## Technical Contributors
 
