@@ -10,9 +10,9 @@ Bitcoin Cash is a version of Bitcoin with greater transaction capacity.
 
 Bitcoin Cash is a hard fork of Bitcoin. Generally speaking, there are two differences between Bitcoin and Bitcoin Cash. 
 
-The first is that Bitcoin Cash is capable of processing ~27 transactions/second whereas Bitcoin is only capable of processing ~3.33-6.66 transactions/second [(src)](https://bitcoin.stackexchange.com/a/71480/51219). Visa typically processes ~2000 transactions/second and is capable of processing up to 24,000 transactions per second [(src)](https://usa.visa.com/run-your-business/small-business-tools/retail.html).
+The first is that Bitcoin Cash is capable of processing ~27 transactions/second whereas Bitcoin is capable of processing ~3.33-6.66 transactions/second [(src)](https://bitcoin.stackexchange.com/a/71480/51219). By comparison, Visa typically processes ~2000 transactions/second and is capable of processing up to 24,000 transactions per second [(src)](https://usa.visa.com/run-your-business/small-business-tools/retail.html).
 
-The second is that, roughly speaking, mining Bitcoin Cash will eventually require ~8x the disk space and memory it takes to mine Bitcoin.
+The second is that, roughly speaking, mining Bitcoin Cash will eventually require ~4-8x the disk space and memory it takes to mine Bitcoin.
 
 ## Distinguishing Technical Features
 
@@ -49,10 +49,6 @@ bitcoin.com, bitcoincash.org
 ## White Paper
 
 https://bitcoin.org/bitcoin.pdf
-
-## Coin Name
-
-Bitcoin Cash
 
 ## Known Tickers
 
