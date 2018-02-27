@@ -30,15 +30,15 @@ def hyperlink(file, domain, link_dictionary)
       else 
         link_dictionary.each do |term, link_address|
           if file.match(/#{link_address}\.json$/) # if this term would hyper link to itself
-            # put a "!!" in front of it so that it doesn't get picked up by any other matches
+            # put a "!!" in front of it so that it doesn't get picked up by any other superstring matches
             content = content.gsub(
-              /(^|\s|\()#{term}($|\.|\)|\s|')/i, 
-              "\\1!!#{term}\\2"
+              /(^|\s|\()(#{term})($|\.|\)|\s|')/i, 
+              "\\1!!\\2\\3"
             )  
           else
             content = content.sub( # only hyperlink the first occurrence of a given within a section
-              /(^|\s|\()#{term}($|\.|\)|\s|')/i, # match the term if it's preceded+followed by a space, period, \n etc.
-              "\\1[#{term}](#{domain}#{link_address})\\2"
+              /(^|\s|\()(#{term})($|\.|\)|\s|')/i, # match the term if it's preceded+followed by a space, period, \n etc.
+              "\\1[\\2](#{domain}#{link_address})\\3"
             )
           end
         end
