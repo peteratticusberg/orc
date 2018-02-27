@@ -50,10 +50,6 @@ bitcoin.com, bitcoincash.org
 
 https://bitcoin.org/bitcoin.pdf
 
-## Coin Name
-
-Bitcoin Cash
-
 ## Known Tickers
 
 BCH, BCC
