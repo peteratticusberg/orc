@@ -43,7 +43,7 @@ May 31 2017 [(src)](https://tokenmarket.net/blockchain/ethereum/assets/basic-att
 
 https://basicattentiontoken.org/
 
-## Whitepaper
+## White Paper
 
 https://basicattentiontoken.org/BasicAttentionTokenWhitePaper-4.pdf
 
