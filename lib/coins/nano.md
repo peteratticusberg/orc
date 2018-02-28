@@ -8,7 +8,7 @@ Nano is a fee-less high speed cryptocurrency.
 
 ## Distinguishing Features
 
-Nano transactions settle within seconds [(src)](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf). The Nano network also claims to be capable of handling up to 7,000 transactions per second [(src)](https://www.reddit.com/r/RaiBlocks/comments/7lw5nu/can_anyone_explain_the_7k_transactions_per_second/). By comparison, Visa is capable of handling 24,000 transactions per second [(src)](https://usa.visa.com/run-your-business/small-business-tools/retail.html). 
+Nano transactions settle within seconds [(src)](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf). The Nano network also claims to be capable of handling up to 7,000 transactions per second [(src)](https://www.reddit.com/r/RaiBlocks/comments/7lw5nu/can_anyone_explain_the_7k_transactions_per_second/). By comparison, Visa typically handles ~2000 transactions/second and is capable of handling 24,000 transactions per second [(src)](https://usa.visa.com/run-your-business/small-business-tools/retail.html). 
 
 Unlike most cryptocurrencies, Nano does not support smart contracts. This feature was intentionally excluded to increase the performance of the nano network.
 
