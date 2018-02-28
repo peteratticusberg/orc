@@ -1,6 +1,6 @@
 ### ORC: Open Research on Coins
 
-The goal of the ORC project is to provide unbiased, accurate, and useful information on coins to investors.
+The goal of the ORC project is to provide **unbiased**, **accurate**, and **useful** information on coins to investors.
 
 If you are a technical reader and you find any of the content to be inaccurate or lacking important information, please open an issue or a pull request.
 
