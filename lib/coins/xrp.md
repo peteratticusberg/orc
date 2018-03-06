@@ -4,11 +4,11 @@ Ripple
 
 ## Soundbite
 
-Ripple powers RippleNet. RippleNet is a platform that enables large financial institutions to efficiently exchange currencies and commodities between each other. 
+Ripple powers RippleNet. RippleNet is a platform that enables large financial institutions to efficiently exchange currencies and commodities. 
 
 ## Distinguishing Features
 
-Ripple's technology is designed for use by large financial institutions [(src)](https://ripple.com/files/ripple_solutions_guide.pdf) and the nodes powering the Ripple network are hosted by large organizations such as Microsoft, MIT, and Bahnof [src](https://ripple.com/insights/xrp-ledger-decentralizes-expansion-55-validator-nodes/). The existing network of entities hosting Ripple nodes decides whether to enable other, new entities to participate in the hosting of RippleNet [(src)](https://www.reddit.com/r/Ripple/comments/4eo1le/can_i_become_a_node_in_the_ripple_network_as_an/).
+Ripple's technology is designed for use by large financial institutions [(src)](https://ripple.com/files/ripple_solutions_guide.pdf) and the nodes powering the Ripple network are hosted by large organizations such as Microsoft, MIT, and Bahnof [(src)](https://ripple.com/insights/xrp-ledger-decentralizes-expansion-55-validator-nodes/). The existing network of entities hosting Ripple nodes decides whether to enable other, new entities to participate in the hosting of RippleNet [(src)](https://www.reddit.com/r/Ripple/comments/4eo1le/can_i_become_a_node_in_the_ripple_network_as_an/).
 
 RippleNet facilitates the transfer of fiat, cryptocurrency, and commodities between Ripple Gateways [(src)](https://ripple.com/build/gateway-guide/). A Ripple Gateway is typically a large financial instutition such as a bank, exchange, or commodities broker. Two Ripple Gateways that trust each other can use Ripple to update a shared ledger used to keep track of the amount of, e.g., USD, EUR, gold, and XRP they owe to each other [(src)](https://ripple.com/build/gateway-guide/#trust-lines-and-issuances). If two Gateways wish to transact that either do not trust each other or cannot transact directly for regulatory purposes they can transact through an intermediate Gateway that they both trust. If there is no single intermediate Gateway they both trust, they can transact through a chain of Gateways. In such a case, the value transfer associated with the transaction "ripples" through the Gateways until it ends up at its final destintation, hence the name of the platform. 
 
