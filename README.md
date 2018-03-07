@@ -2,7 +2,7 @@
 
 The goal of the ORC project is to provide **unbiased**, **accurate**, and **useful** information on coins to investors.
 
-If you are a technical reader and you find any of the content to be inaccurate or lacking important information, please open an issue or a pull request.
+If you are a technical reader and you find any of the content to be inaccurate or lacking important information, you can open an issue or a put up a pull request.
 
 #### Contributing
 
